@@ -1,0 +1,86 @@
+body {
+    overflow-x: hidden;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header img {
+    float: left;
+    width: 60px;
+    height: 50px;
+}
+.intro{
+    text-align: center;
+}
+.intro h2{
+    color: #1e90ff;
+    padding: 50px 0;
+}
+
+.mybtn{
+    background-color: #1e90ff;
+}
+.humanoid{
+    width: 500px;
+    height: auto;
+   
+}
+.jumbotron {
+    margin-bottom: 0px !important;
+}
+.stat{
+    padding: 15px 0;
+}
+.stat h2{
+    text-align: center;
+    color: #fff;
+    text-decoration: underline;
+    
+}
+.red{
+    color: #ff0000;
+}
+.newsbody {
+    background-color: #eeeeee;
+    height: 100%;
+    padding: 50px;
+}
+.news {
+    text-align: center;
+    color: #ff0000;
+    padding: 20px 0;
+
+}
+.cardbox {
+    box-shadow: 1px 1px 15px  #cecece;
+}
+.card-header {
+    background-color: #ff0000;
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+}
+.cardimg {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    display: block;
+    margin: 10px auto;
+    width: 40%;
+}
+footer p {
+    color: #1e90ff;
+    padding: 20px 0;
+}
+.white {
+    color: #fff;
+}
+.yellow {
+    color: #ffff00;
+}
+
+
+/* Color Theme Swatches in Hex */
+.My-Color-Theme-1-hex { color: #1e90ff; }
+.My-Color-Theme-2-hex { color: #00008b; }
+.My-Color-Theme-3-hex { color: #ff0000; }
+.My-Color-Theme-4-hex { color: #ffff00; }
+.My-Color-Theme-5-hex { color: #eeeeee; }
